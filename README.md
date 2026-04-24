@@ -69,5 +69,5 @@ The prototype successfully detected nearby obstacles and triggered alerts based 
 
 ## Author
 Taranjeet Singh  
-24MCA20073  
-MCA 4A
++91-9878770515
+taran.pvt@gmail.com
