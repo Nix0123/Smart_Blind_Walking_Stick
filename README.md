@@ -22,9 +22,9 @@ The alert frequency is **distance-proportional**:
 
 ## 📸 Project Photos
 
-| Top View | Front View |
-|----------|------------|
-| *images/top_view.jpeg* | *images/front_view.jpeg* |
+![Top View](images/top_view.jpeg)
+![Front View](images/front_view.jpeg)
+![Circuit Diagram](images/Circuit.png)
 
 > 📹 Demo video coming soon!
 
@@ -202,23 +202,6 @@ void loop() {
 - [ ] Rechargeable lithium battery integration
 - [ ] Compact PCB design for stick mounting
 
----
-
-## 📁 Repository Structure
-
-```
-smart-blind-walking-stick/
-├── src/
-│   └── smart_blind_stick.ino     # Main Arduino source code
-├── circuit/
-│   └── circuit_diagram.png       # Tinkercad circuit diagram
-├── images/
-│   ├── top_view.jpg              # Hardware top view
-│   └── front_view.jpg           # Hardware front view
-├── demo/
-│   └── demo_video.mp4           # Project demo (coming soon)
-└── README.md
-```
 
 ---
 
